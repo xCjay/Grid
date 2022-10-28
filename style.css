@@ -9,7 +9,7 @@
     grid-template-columns: 56px 56px 56px;
     border-style: solid;
 
-    column-gap: 50px;
+    column-gap: 200px;
     row-gap: 50px;
 
     padding: 10px;
@@ -34,7 +34,7 @@
     column-gap: 50px;
     row-gap: 50px;
     
-    grid-template-columns: 56px 56px 56px 56px;
+    grid-template-columns: 56px 56px;
     padding: 10px;
 
 }
@@ -47,4 +47,8 @@
     color: green
     width: 50px;
     height: 50px;
+}
+
+.flexes{
+    display: flex;
 }
